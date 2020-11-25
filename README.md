@@ -4,12 +4,6 @@
 # 🏳 WH-Cyberspace (Mr. Octopus) 🔞
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
-# if your cpu is 32 bit then you are download it
-
-
-☆ WH-Rat x86 v1.4 / 32 bit > mega drive :[Here]( https://mega.nz/file/MF1wQQKb#CG_4VvrBlp27JjSZMsD7-g7LOAuzGevGaHCYmK_MWpg "WH-Rat x86 v1.4  / 32 bit")
-
-
 
 # ➰ requirements PKG
 
@@ -31,43 +25,8 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 
 
 
-# 💡 HOW TO INSTALL in WINDOWS
-
-1. Download Zip file https://github.com/wh-Cyberspace/WH-RAT/archive/master.zip
-
-2. Open up Windows directory
-
-3. Now, Unzip your download file (WH-RAT-master.zip) 
-
-4. and open directory
-
-5. now , windows defender turn off real time protection
-
-6. and run ( WH-Rat-setup-v1.1.exe )
- 
-7. now , click (install) button
-
-8. select (EveryOne) and next all .
 
 
-
-
-
-# 💡 How To Use ? YOUTUBE VIDEO ⬇ 
- 
- 
- 
-
-
- ☆ how to use in pc ⏬
- 
-🏳 [WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-Cyberspace ( PC )]( https://www.youtube.com/watch?v=1DmdlfA8O_8 "WH RAT | Java path not found error | WH-Cyberspace ( PC ) ") 
-
-
-
-# Common error Fix
-
-🏳 [WH RAT | Java path not found error | WH-Cyberspace ( PC )]( https://www.youtube.com/watch?v=YyVouOv91k0&feature=youtu.be "WH RAT | Java path not found error | WH-Cyberspace ( PC ) ") 
 
 
 
@@ -75,11 +34,14 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/wrat1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Octopus/main/img/1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/wrat2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Octopus/main/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/whrat4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Octopus/main/img/3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
+
+
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Octopus/main/img/4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
 # virustotal scan result
 
@@ -91,6 +53,8 @@ https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/VirusTotal.png
 <br /><br />
 
 # ℹ INFO
+Name : MR. OCTOPUS
+
 Framwork version : 1.1.3 
 
 POWER BY >> WH-Cyberspace  
