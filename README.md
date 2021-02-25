@@ -25,7 +25,7 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 
 
 
-# Buy Active key in [Here]( https://sellix.io/product/5fbe6b579f50b "Mr. Octopus")
+# Buy Active key in [Here]( http://whcyberspace.com "Mr. Octopus")
 
 
 
