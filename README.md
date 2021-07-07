@@ -14,6 +14,48 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.html?fbclid=IwAR0jOc6il8x_8Y4EElSQdUvPoWNxFYFQ3mXZW79XindadrltxpyMKFUGK9s " JAVA JDK")
 
 
+
+# Features
+Android Versions Compatibility
+
+Mr. Octopus is fully compatible with the following Android versions:
+
+11 , 10, 9.0, 8.0 , 7.0 , 6.0 , 5.0 , 4.0 and the old version 6.0 – Marshmallow as well.
+
+
+
+[+] Easy to use GUI interface.
+
+[+] Simple APK generator.
+
+[+] Bind payload APK with any application.
+
+[+] Powerful Files Explorer with all access priviliges.
+
+[+] Read and Write Messages remotely.
+
+[+] Make a phone call or record an active call.
+
+[+] Browse Call Logs.
+
+[+] Read/Write Contact List.
+
+[+] Remote Camera to capture Images & Videos from target device.
+
+[+] Listen to the live conversations through remote Mic, and record the audio from Mic.
+
+[+] Check Internet Browser History.
+
+[+] GPS Locator.
+
+[+] List of all the installed Applications.
+
+[+] Get phone’s detailed info.
+
+[+] FULLY STEALTH MODE..!
+
+
+
 # 💿 SYSTEM TEST
 1. Windows 10   [ Recommended System ]  
 
