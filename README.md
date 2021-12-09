@@ -94,7 +94,7 @@ Mr. Octopus is fully compatible with the following Android versions:
 # ℹ INFO
 Name : MR. OCTOPUS
 
-Framwork version : 2.0.1.0
+Framwork version : 2.0.1.1
 
 POWER BY >> WH-Cyberspace  
 
